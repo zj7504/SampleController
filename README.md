@@ -1,0 +1,2 @@
+# SampleController
+Controller for Sample
